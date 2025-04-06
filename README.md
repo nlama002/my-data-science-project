@@ -16,7 +16,6 @@ Leverage data science to identify trends in motor vehicle crashes and provide sa
 
 **Milestones:**
 
-🧩 Project Milestones
 ✅ 1. Environment Setup & Basic Exploratory Data Analysis (EDA)
 Installed and configured necessary packages (Pandas, NumPy, Matplotlib, Seaborn, Folium, etc.)
 
